@@ -5,6 +5,9 @@ on:
 name: release-please
 jobs:
   release-please:
+    permissions:
+      contents: write
+      pull-requests: write
     runs-on: ubuntu-latest
     outputs:
       releases_created: ${{ steps.release-please.outputs.releases_created }}
@@ -28,7 +31,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: Generate ISO  
-        uses: ublue-os/isogenerator@main
+        uses: ublue-os/isogenerator@v1.0.4
         id: isogenerator
         with:
           image-name: universalblue
