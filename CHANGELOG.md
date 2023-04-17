@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.5](https://github.com/akdev1l/ublue-os-main/compare/v1.3.4...v1.3.5) (2023-04-17)
+
+
+### Bug Fixes
+
+* add permissions for release ([96aea0c](https://github.com/akdev1l/ublue-os-main/commit/96aea0c8791d1a9b7b9b66386e0c407d69d8c071))
+
 ## [1.3.4](https://github.com/akdev1l/ublue-os-main/compare/v1.3.3...v1.3.4) (2023-04-17)
 
 
