@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.6](https://github.com/akdev1l/ublue-os-main/compare/v1.3.5...v1.3.6) (2023-04-17)
+
+
+### Bug Fixes
+
+* use relative path for sha256sum path ([3b55175](https://github.com/akdev1l/ublue-os-main/commit/3b55175245cc2fa9903ca9d04b786b49cec970a4))
+
 ## [1.3.5](https://github.com/akdev1l/ublue-os-main/compare/v1.3.4...v1.3.5) (2023-04-17)
 
 
