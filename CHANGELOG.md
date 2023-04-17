@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.2](https://github.com/akdev1l/ublue-os-main/compare/v1.3.1...v1.3.2) (2023-04-17)
+
+
+### Bug Fixes
+
+* bump isogenerator ([2af97ee](https://github.com/akdev1l/ublue-os-main/commit/2af97ee91b43ea65a0ffd9fccca5284133e09846))
+
 ## [1.3.1](https://github.com/akdev1l/ublue-os-main/compare/v1.3.0...v1.3.1) (2023-04-17)
 
 
