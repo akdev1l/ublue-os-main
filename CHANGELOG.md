@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.4](https://github.com/akdev1l/ublue-os-main/compare/v1.3.3...v1.3.4) (2023-04-17)
+
+
+### Bug Fixes
+
+* try relative path ([b9822bd](https://github.com/akdev1l/ublue-os-main/commit/b9822bd3e65997c0463eaeb3dbb9520f1c4d13c2))
+
 ## [1.3.3](https://github.com/akdev1l/ublue-os-main/compare/v1.3.2...v1.3.3) (2023-04-17)
 
 
