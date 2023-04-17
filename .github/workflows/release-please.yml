@@ -62,6 +62,6 @@ jobs:
         run: |
           gh release upload \
             ${{ needs.release-please.outputs.tag }} \
-            ${{ github.workspace }}/${{ steps.isogenerator.outputs.sha256sum-path }} \
+            ./${{ steps.isogenerator.outputs.sha256sum-path }} \
             --repo ${{ github.repository_owner }}/${{ github.event.repository.name }} \
             --clobber
