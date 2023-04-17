@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.3](https://github.com/akdev1l/ublue-os-main/compare/v1.3.2...v1.3.3) (2023-04-17)
+
+
+### Bug Fixes
+
+* try correct iso paths ([89d32bc](https://github.com/akdev1l/ublue-os-main/commit/89d32bc088f2e00ac0fb3832ce67a8c25194045b))
+
 ## [1.3.2](https://github.com/akdev1l/ublue-os-main/compare/v1.3.1...v1.3.2) (2023-04-17)
 
 
